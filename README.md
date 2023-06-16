@@ -1,1 +1,1 @@
-Positive anything is better than negative nothing
+this is c program
