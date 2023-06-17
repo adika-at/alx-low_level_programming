@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+/* this is my first comment */
 
-/* betty style doc for function main goes there */
+/* then this follows */
 int main(void)
 {
 		int n;
 
 			srand(time(0));
 				n = rand() - RAND_MAX / 2;
-					/* your code goes there */
+					/*my code */
 					return (0);
 }
