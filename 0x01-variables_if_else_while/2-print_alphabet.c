@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int main (void)
+int main(void)
 {
 	char alphabetic;
 
-	for (alphabetic 'a';alphabetic <= 'z'; alphabetic++)
+	for (alphabetic 'a'; alphabetic <= 'z'; alphabetic++)
 		printf(alphabetic);
-	printf ("\n");
+	printf("\n");
 	return (0);
 }
