@@ -9,5 +9,5 @@
  */
 int _putchar(void)
 {
-    return write(0);
+    return(0);
 }
