@@ -8,11 +8,13 @@
  */
 
 int main(void)
+
 {
-	for (j = 'a'; j <= 'j'; j++ )
+	char j;
+
+	for (j = 'a'; j <= 'j'; j++)
 	{
-	 _putchar(j);
+	 _putchar (j);
 	}
-	_putchar('\n');
-	
+	_putchar ('\n');
 }
