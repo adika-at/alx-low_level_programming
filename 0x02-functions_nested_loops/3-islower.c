@@ -2,7 +2,7 @@
 
 /**
  * main - check the code.
- * c - this  is an integer representing the lowercase character
+ * @c: The character to be checked
  * Return: Always 0.
  */
 
